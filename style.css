@@ -1,0 +1,29 @@
+h1 {
+  color: navy;
+  margin-left: 20px;
+}
+.change{
+  color: red;
+}
+.bg-dark{
+  background-color: #117ec2 !important;
+}
+html, body {
+    min-height: 100%;
+}
+.jumbotron{
+  background-color: red;
+}
+.check {
+    padding: 0 5px 0 5px;
+    border: 1px solid black;
+}
+.box {
+    border: 1px solid black;
+    border-spacing: 1em 0.5em;
+
+}
+
+  .test h1{
+    color: red;
+}
